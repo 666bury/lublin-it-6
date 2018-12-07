@@ -10,4 +10,4 @@
 * [Ruby and ML](https://github.com/codete/grillrb)
 
 ## Serhii Lebedyn - Laravel Queues are awesome
-soon :)
+* [PDF](./slides/Laravel-Queues-Are-Awesome.pdf)
